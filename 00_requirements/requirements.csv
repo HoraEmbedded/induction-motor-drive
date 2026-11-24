@@ -1,0 +1,7 @@
+id,priority,component,test,evidence,status,owner,config_version,date
+VDX-004,M,TRANSFORMS,TC-02,Numerical report and signal set,TODO,Horacia,,
+VDX-025,M,CTRL-FOC,TC-10,Matrices polynomials poles,TODO,Horacia,,
+VDX-027,M,CTRL-FOC,TC-11,Bode margins delays,TODO,Horacia,,
+VDX-038,M,EST-RR,TC-15,Bounding and slope traces,TODO,Horacia,,
+VDX-044,M,EST-SPD,TC-27,Inspection and isolation test,TODO,Horacia,,
+VDX-052,M,MON-PERF,TC-21,Labels confusion matrix delays,TODO,Horacia,,
