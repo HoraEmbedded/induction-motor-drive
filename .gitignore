@@ -1,0 +1,20 @@
+# MATLAB / Simulink
+slprj/
+*.slxc
+*.asv
+*.autosave
+*.m~
+*.mex*
+codegen/
+*.slx.original
+*.slx.r*
+
+# Large raw simulation data (keep manifests and scripts versioned)
+04_results/raw/
+*.log
+
+# OS and editors
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
