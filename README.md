@@ -1,5 +1,9 @@
 # induction-motor-drive
 
+![License](https://img.shields.io/github/license/HoraEmbedded/induction-motor-drive)
+![Last commit](https://img.shields.io/github/last-commit/HoraEmbedded/induction-motor-drive)
+![MATLAB](https://img.shields.io/badge/MATLAB-Simulink-orange)
+
 **VECTOR-DRIVE X+** : modeling, control and validation of a three-phase induction motor drive in MATLAB/Simulink.
 
 > Status: **Mission 0 (setup)**. Parameters and targets are proposals pending review G0 (Gate 0). No performance is claimed yet.
@@ -38,7 +42,11 @@ Build a reproducible digital test bench to understand, implement and compare fiv
 
 ## Roadmap
 
+## Roadmap
+
 Missions 0 to 11 follow the 10 work packages (WP0 to WP9) and the 8 gate reviews (G0 to G7) of the specification VDX-CDC-002. A gate review is a decision point (GO, REWORK or NO-GO) based on evidence, not on elapsed time.
+
+See [docs/PLAN.md](docs/PLAN.md) for method, schedule and gates.
 
 ## Requirements
 
