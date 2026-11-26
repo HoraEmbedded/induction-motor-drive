@@ -42,8 +42,6 @@ Build a reproducible digital test bench to understand, implement and compare fiv
 
 ## Roadmap
 
-## Roadmap
-
 Missions 0 to 11 follow the 10 work packages (WP0 to WP9) and the 8 gate reviews (G0 to G7) of the specification VDX-CDC-002. A gate review is a decision point (GO, REWORK or NO-GO) based on evidence, not on elapsed time.
 
 See [docs/PLAN.md](docs/PLAN.md) for method, schedule and gates.
@@ -51,10 +49,6 @@ See [docs/PLAN.md](docs/PLAN.md) for method, schedule and gates.
 ## Requirements
 
 MATLAB and Simulink (exact versions recorded in `docs/tools-inventory.md`).
-
-## Honesty policy
-
-Simulation is never presented as a real motor experiment. Analytical results, simulated results and hardware measurements are always separated.
 
 ## License
 
