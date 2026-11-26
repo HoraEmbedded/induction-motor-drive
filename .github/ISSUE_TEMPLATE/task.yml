@@ -1,0 +1,31 @@
+name: Task / Tâche
+description: One micro-goal linked to a requirement and a test
+title: "[Mx] "
+labels: ["task"]
+body:
+  - type: input
+    id: requirement
+    attributes:
+      label: Requirement (VDX-xxx)
+      placeholder: VDX-004
+    validations:
+      required: true
+  - type: input
+    id: test
+    attributes:
+      label: Linked test (TC-xx) and scenario (SC-xx)
+      placeholder: TC-02
+  - type: textarea
+    id: criterion
+    attributes:
+      label: Acceptance criterion (written before the work)
+    validations:
+      required: true
+  - type: textarea
+    id: prediction
+    attributes:
+      label: Predicted result before running
+  - type: input
+    id: estimate
+    attributes:
+      label: Estimate (hours)
